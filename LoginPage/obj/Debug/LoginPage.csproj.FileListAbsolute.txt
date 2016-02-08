@@ -1,0 +1,10 @@
+C:\Users\MIS_STUDENT1\Desktop\SVI_CUSTOMER\LoginPage\LoginPage\bin\LoginPage.dll
+C:\Users\MIS_STUDENT1\Desktop\SVI_CUSTOMER\LoginPage\LoginPage\bin\LoginPage.pdb
+C:\Users\MIS_STUDENT1\Desktop\SVI_CUSTOMER\LoginPage\LoginPage\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\MIS_STUDENT1\Desktop\SVI_CUSTOMER\LoginPage\LoginPage\obj\Debug\LoginPage.dll
+C:\Users\MIS_STUDENT1\Desktop\SVI_CUSTOMER\LoginPage\LoginPage\obj\Debug\LoginPage.pdb
+C:\Users\MIS_STUDENT1\Desktop\LoginPage\LoginPage\bin\LoginPage.dll
+C:\Users\MIS_STUDENT1\Desktop\LoginPage\LoginPage\bin\LoginPage.pdb
+C:\Users\MIS_STUDENT1\Desktop\LoginPage\LoginPage\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\MIS_STUDENT1\Desktop\LoginPage\LoginPage\obj\Debug\LoginPage.dll
+C:\Users\MIS_STUDENT1\Desktop\LoginPage\LoginPage\obj\Debug\LoginPage.pdb
