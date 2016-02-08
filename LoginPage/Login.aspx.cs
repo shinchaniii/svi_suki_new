@@ -15,37 +15,28 @@ namespace LoginPage
 
         }
 
-        protected void txt_GLogin_Click(object sender, EventArgs e)
+        protected void Button1_Click(object sender, EventArgs e)
         {
             SqlConnection conn = new SqlConnection(ConfigurationManager.ConnectionStrings["project-testConnectionString"].ConnectionString);
             conn.Open();
-            string checkuser = "select * from employee where name_employee='" + txt_Username.Text + "' and password_employee='"+txt_Password.Text+"'";
+            string checkuser = "select * from employee where name_employee='" + User_Tbx.Text + "' and password_employee='" + Pass_Tbx.Text + "'";
             SqlCommand com = new SqlCommand(checkuser, conn);
             object obj = com.ExecuteScalar();
             conn.Close();
             if (obj != null)
             {
-                Session["New"] = txt_Username.Text;
+                Session["New"] = User_Tbx.Text;
                 Response.Write("Success !");
                 Response.Redirect("Manager.aspx");
-                
+
             }
             else
             {
                 Response.Write("Incorrect Username or Password !");
             }
-
         }
 
+      
 
-        protected void txt_Password_TextChanged(object sender, EventArgs e)
-        {
-
-        }
-
-        protected void txt_Back_Click(object sender, EventArgs e)
-        {
-            Response.Redirect("Default.aspx");
-        }
     }
 }
