@@ -56,6 +56,7 @@
       <DependentUpon>project-test.mdf</DependentUpon>
     </Content>
     <Content Include="Default.aspx" />
+    <Content Include="MenuSuki.aspx" />
     <Content Include="Login.aspx" />
     <Content Include="Main.aspx" />
     <Content Include="Manager.aspx" />
@@ -77,6 +78,13 @@
     </Compile>
     <Compile Include="Default.aspx.designer.cs">
       <DependentUpon>Default.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="MenuSuki.aspx.cs">
+      <DependentUpon>MenuSuki.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="MenuSuki.aspx.designer.cs">
+      <DependentUpon>MenuSuki.aspx</DependentUpon>
     </Compile>
     <Compile Include="Login.aspx.cs">
       <DependentUpon>Login.aspx</DependentUpon>
@@ -116,7 +124,7 @@
         <WebProjectProperties>
           <UseIIS>False</UseIIS>
           <AutoAssignPort>True</AutoAssignPort>
-          <DevelopmentServerPort>53460</DevelopmentServerPort>
+          <DevelopmentServerPort>52376</DevelopmentServerPort>
           <DevelopmentServerVPath>/</DevelopmentServerVPath>
           <IISUrl>
           </IISUrl>
