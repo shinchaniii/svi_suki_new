@@ -8,7 +8,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
 
-    <title></title>
+    <title>LOGIN</title>
     <link href="testcss/css.css" rel="stylesheet" />
     <link href="css/bootstrap.min.css" rel="stylesheet" />
 
@@ -20,19 +20,23 @@
                 <div class="account-wall">
                     <div id="my-tab-content" class="tab-content">
                         <div class="tab-pane active" id="login">
-                            <img class="profile-img" src="https://lh5.googleusercontent.com/-b0-k99FZlyE/AAAAAAAAAAI/AAAAAAAAAAA/eu7opA4byxI/photo.jpg?sz=120"
+                            <img class="profile-img" src="pic/logo.png" style="max-width:100%"
                                 alt="">
                             <form class="form-signin" action="" method="" runat="server">
-                                <!--<input type="text" class="form-control" placeholder="Username" required autofocus>
-                                <input type="password" class="form-control" placeholder="Password" required>
-                                <input type="submit" class="btn btn-lg btn-default btn-block" value="Sign In" />-->
-                                <asp:TextBox ID="User_Tbx" CssClass="form-control" runat="server"></asp:TextBox>
-                                <asp:TextBox ID="Pass_Tbx" CssClass="form-control" runat="server"></asp:TextBox></br>
-                                <asp:Button ID="Button1" CssClass="btn btn-lg btn-default btn-block" runat="server" Text="Button" OnClick="Button1_Click" />
+                            <br />
+                            <!--    <input type="text" class="form-control" placeholder="Username" required autofocus>
+                                <input type="password" class="form-control" placeholder="Password" required> <br />
+                                <input type="submit" class="btn btn-lg btn-default btn-block" value="Sign In" /> -->
+                                <br />
+                            <asp:TextBox ID="User_Tbx" CssClass="form-control" runat="server"></asp:TextBox><br />
+                                <asp:TextBox ID="Pass_Tbx" CssClass="form-control" runat="server" 
+                                TextMode="Password"></asp:TextBox></br>
+                                <asp:Button ID="Button1" CssClass="btn btn-lg btn-default btn-block" runat="server" Text="LOGIN" OnClick="Button1_Click" />
 
                             </form>
-                            <div id="tabs" data-tabs="tabs">
-                                <p class="text-center"><a href="#register" data-toggle="tab">Need an Account?</a></p>
+                            <div id="tabs" data-tabs="tabs"> <br />
+                       
+                                <p class="text-center"><a href="Registration.aspx" data-toggle="tab">Register</a></p>
                             </div>
                         </div>
                         <div class="tab-pane" id="register">

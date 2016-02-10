@@ -71,16 +71,24 @@
     <Content Include="css\bootstrap.css" />
     <Content Include="css\bootstrap.min.css" />
     <Content Include="Default.aspx" />
+<<<<<<< HEAD
+    <Content Include="MenuSuki.aspx" />
+=======
     <Content Include="js\bootstrap.js" />
     <Content Include="js\bootstrap.min.js" />
     <Content Include="js\npm.js" />
+>>>>>>> aceea698adf5c87da7ab685e27e9b8cdcf7a4e32
     <Content Include="Login.aspx" />
     <Content Include="Main.aspx" />
     <Content Include="Manager.aspx" />
     <Content Include="Registration.aspx" />
+<<<<<<< HEAD
     <Content Include="stock_manage.aspx" />
     <Content Include="stock_add.aspx" />
     <Content Include="stock_remove.aspx" />
+=======
+    <Content Include="Report.aspx" />
+>>>>>>> 0890a99d69a44e50ec6433e42731a7118e48f4dc
     <Content Include="testcss\css.css" />
     <Content Include="Web.config">
       <SubType>Designer</SubType>
@@ -99,6 +107,13 @@
     </Compile>
     <Compile Include="Default.aspx.designer.cs">
       <DependentUpon>Default.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="MenuSuki.aspx.cs">
+      <DependentUpon>MenuSuki.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="MenuSuki.aspx.designer.cs">
+      <DependentUpon>MenuSuki.aspx</DependentUpon>
     </Compile>
     <Compile Include="Login.aspx.cs">
       <DependentUpon>Login.aspx</DependentUpon>
@@ -129,6 +144,7 @@
     <Compile Include="Registration.aspx.designer.cs">
       <DependentUpon>Registration.aspx</DependentUpon>
     </Compile>
+<<<<<<< HEAD
     <Compile Include="stock_manage.aspx.cs">
       <DependentUpon>stock_manage.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
@@ -149,6 +165,14 @@
     </Compile>
     <Compile Include="stock_remove.aspx.designer.cs">
       <DependentUpon>stock_remove.aspx</DependentUpon>
+=======
+    <Compile Include="Report.aspx.cs">
+      <DependentUpon>Report.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Report.aspx.designer.cs">
+      <DependentUpon>Report.aspx</DependentUpon>
+>>>>>>> 0890a99d69a44e50ec6433e42731a7118e48f4dc
     </Compile>
   </ItemGroup>
   <ItemGroup>
@@ -170,7 +194,11 @@
         <WebProjectProperties>
           <UseIIS>False</UseIIS>
           <AutoAssignPort>True</AutoAssignPort>
-          <DevelopmentServerPort>53460</DevelopmentServerPort>
+<<<<<<< HEAD
+          <DevelopmentServerPort>52376</DevelopmentServerPort>
+=======
+          <DevelopmentServerPort>53076</DevelopmentServerPort>
+>>>>>>> aceea698adf5c87da7ab685e27e9b8cdcf7a4e32
           <DevelopmentServerVPath>/</DevelopmentServerVPath>
           <IISUrl>
           </IISUrl>
