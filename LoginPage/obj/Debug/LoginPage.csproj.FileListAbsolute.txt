@@ -14,3 +14,9 @@ C:\Users\BYKHD\Desktop\svi_suki_new\LoginPage\obj\Debug\LoginPage.pdb
 C:\Users\BYKHD\Desktop\svi_suki_new\LoginPage\bin\LoginPage.dll.config
 C:\Users\BYKHD\Desktop\svi_suki_new\LoginPage\bin\LoginPage.dll
 C:\Users\BYKHD\Desktop\svi_suki_new\LoginPage\bin\LoginPage.pdb
+C:\Users\zMooNesSz\Desktop\GrowthUP\Practice\svi_suki_new\LoginPage\bin\LoginPage.dll.config
+C:\Users\zMooNesSz\Desktop\GrowthUP\Practice\svi_suki_new\LoginPage\bin\LoginPage.dll
+C:\Users\zMooNesSz\Desktop\GrowthUP\Practice\svi_suki_new\LoginPage\bin\LoginPage.pdb
+C:\Users\zMooNesSz\Desktop\GrowthUP\Practice\svi_suki_new\LoginPage\obj\Debug\LoginPage.csprojResolveAssemblyReference.cache
+C:\Users\zMooNesSz\Desktop\GrowthUP\Practice\svi_suki_new\LoginPage\obj\Debug\LoginPage.dll
+C:\Users\zMooNesSz\Desktop\GrowthUP\Practice\svi_suki_new\LoginPage\obj\Debug\LoginPage.pdb
