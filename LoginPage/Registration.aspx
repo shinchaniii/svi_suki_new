@@ -7,7 +7,7 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title></title>
+    <title>REGISTRATION</title>
     <link href="css/bootstrap.min.css" rel="stylesheet">
     <style type="text/css">
         .style1
@@ -117,7 +117,7 @@
                         ControlToValidate="txt_Name" CssClass="style4" 
                         ErrorMessage="* Username is required" ForeColor="Red"></asp:RequiredFieldValidator>
                 </td>
-            </tr><br />
+            </tr>
             <tr>
                 <td class="style11">
                     Password :</td>
@@ -131,7 +131,7 @@
                         ControlToValidate="txt_Password" CssClass="style4" 
                         ErrorMessage="* Password is required" ForeColor="Red"></asp:RequiredFieldValidator>
                     </td>
-            </tr><br />
+            </tr>
             <tr>
                 <td class="style12">
                     Confirm Password :</td>

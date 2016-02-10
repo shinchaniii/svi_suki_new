@@ -7,7 +7,7 @@ using System.Web.UI.WebControls;
 
 namespace LoginPage
 {
-    public partial class Manager : System.Web.UI.Page
+    public partial class Report : System.Web.UI.Page
     {
         protected void Page_Load(object sender, EventArgs e)
         {
@@ -19,17 +19,6 @@ namespace LoginPage
             {
                 Response.Redirect("Login.aspx");
             }
-        }
-
-        protected void Button1_Click(object sender, EventArgs e)
-        {
-            Session["New"] = null;
-            Response.Redirect("Default.aspx");
-        }
-
-        protected void Button1_Click1(object sender, EventArgs e)
-        {
-            Response.Redirect("Report.aspx");
         }
     }
 }
