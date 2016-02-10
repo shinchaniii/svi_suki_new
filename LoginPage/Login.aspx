@@ -29,13 +29,14 @@
                                 <input type="submit" class="btn btn-lg btn-default btn-block" value="Sign In" /> -->
                                 <br />
                             <asp:TextBox ID="User_Tbx" CssClass="form-control" runat="server"></asp:TextBox><br />
-                                <asp:TextBox ID="Pass_Tbx" CssClass="form-control" runat="server"></asp:TextBox></br>
+                                <asp:TextBox ID="Pass_Tbx" CssClass="form-control" runat="server" 
+                                TextMode="Password"></asp:TextBox></br>
                                 <asp:Button ID="Button1" CssClass="btn btn-lg btn-default btn-block" runat="server" Text="LOGIN" OnClick="Button1_Click" />
 
                             </form>
                             <div id="tabs" data-tabs="tabs"> <br />
                        
-                                <p class="text-center"><a href="#register" data-toggle="tab">Register</a></p>
+                                <p class="text-center"><a href="Registration.aspx" data-toggle="tab">Register</a></p>
                             </div>
                         </div>
                         <div class="tab-pane" id="register">
