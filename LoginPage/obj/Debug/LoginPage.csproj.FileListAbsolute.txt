@@ -8,8 +8,17 @@ C:\Users\MIS_STUDENT1\Desktop\LoginPage\LoginPage\bin\LoginPage.pdb
 C:\Users\MIS_STUDENT1\Desktop\LoginPage\LoginPage\obj\Debug\ResolveAssemblyReference.cache
 C:\Users\MIS_STUDENT1\Desktop\LoginPage\LoginPage\obj\Debug\LoginPage.dll
 C:\Users\MIS_STUDENT1\Desktop\LoginPage\LoginPage\obj\Debug\LoginPage.pdb
+<<<<<<< HEAD
 C:\Users\MIS_STUDENT4\Desktop\Growth\New P.SVI\svi_suki_new\LoginPage\obj\Debug\ResolveAssemblyReference.cache
 C:\Users\MIS_STUDENT4\Desktop\Growth\New P.SVI\svi_suki_new\LoginPage\obj\Debug\LoginPage.dll
 C:\Users\MIS_STUDENT4\Desktop\Growth\New P.SVI\svi_suki_new\LoginPage\obj\Debug\LoginPage.pdb
 C:\Users\MIS_STUDENT4\Desktop\Growth\New P.SVI\svi_suki_new\LoginPage\bin\LoginPage.dll
 C:\Users\MIS_STUDENT4\Desktop\Growth\New P.SVI\svi_suki_new\LoginPage\bin\LoginPage.pdb
+=======
+C:\Users\BYKHD\Desktop\svi_suki_new\LoginPage\obj\Debug\LoginPage.csprojResolveAssemblyReference.cache
+C:\Users\BYKHD\Desktop\svi_suki_new\LoginPage\obj\Debug\LoginPage.dll
+C:\Users\BYKHD\Desktop\svi_suki_new\LoginPage\obj\Debug\LoginPage.pdb
+C:\Users\BYKHD\Desktop\svi_suki_new\LoginPage\bin\LoginPage.dll.config
+C:\Users\BYKHD\Desktop\svi_suki_new\LoginPage\bin\LoginPage.dll
+C:\Users\BYKHD\Desktop\svi_suki_new\LoginPage\bin\LoginPage.pdb
+>>>>>>> aceea698adf5c87da7ab685e27e9b8cdcf7a4e32
